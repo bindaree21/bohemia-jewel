@@ -1,2 +1,2 @@
-# bohemian-jewel
+# bohemia-jewel
 jewellery website
